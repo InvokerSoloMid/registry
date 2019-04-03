@@ -110,7 +110,13 @@ p{
 .birth{
 	width: 50%;
 	margin-left: 5%;
-	display: block;
+    margin-bottom:20px;
+    display: inline-block;
 	text-align: center;
-	border: 2px solid red;
+}
+
+.photo{
+    float:left;
+    display: inline-block;
+    margin-top:60px;
 }
